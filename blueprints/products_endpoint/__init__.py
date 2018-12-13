@@ -1,0 +1,1 @@
+from .init_blueprint import blueprint  # noqa
